@@ -13,3 +13,8 @@ This repository records my mental journey of learning programming
 - Data Structures and Algorithms
 - Basic knowledge
 - Go
+
+## Other
+```text
+Click the Star if you think it will help you, Thank you.
+```
