@@ -12,7 +12,8 @@ This repository records my mental journey of learning programming
 - Rust
 - Data Structures and Algorithms
 - Basic knowledge
-- Go
+- Golang
+- Kubernetes
 
 ## Other
 ```text
