@@ -17,5 +17,5 @@ This repository records my mental journey of learning programming
 
 ## Other
 ```text
-Click the Star if you think it will help you, Thank you.
+I really want to make the world a better place, but they won't give me the source code...
 ```
