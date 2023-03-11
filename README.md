@@ -1,14 +1,13 @@
-## Start
+## Introduction
 ```text
-2022-11-12
+Author: dierbei
+Age: 24
+Hobby: Programming、Music、Movie
+startTime: 2022-11-12 ~ xxxx-xx-xx
+Background: This repository records my mental journey of learning programming
 ```
 
-## Background
-```text
-This repository records my mental journey of learning programming
-```
-
-## Technology stack
+## Technology
 - Linux
 - Assembly
 - Rust
