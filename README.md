@@ -1,4 +1,4 @@
-## Start Time
+## Start
 ```text
 2022-11-12
 ```
@@ -9,10 +9,11 @@ This repository records my mental journey of learning programming
 ```
 
 ## Technology stack
+- Linux
+- Assembly
 - Rust
-- Data Structures and Algorithms
-- Basic knowledge
 - Golang
+- Data Structures and Algorithms
 - Kubernetes
 
 ## Other
