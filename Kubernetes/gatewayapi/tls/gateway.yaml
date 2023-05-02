@@ -1,0 +1,22 @@
+apiVersion: gateway.networking.k8s.io/v1beta1
+kind: Gateway
+metadata:
+  name: hedui-gateway
+  namespace: testr
+spec:
+  gatewayClassName: hedui-gateway-class
+  listeners:
+    - name: foo-https
+      protocol: HTTPS
+      port: 443
+      hostname: foo.example.com
+      tls:
+        mode: Terminate
+        certificateRefs:
+          - kind: Secret
+            name: my-tls-secret
+            namespace: testr
+    - name: foo-http
+      protocol: HTTP
+      port: 80
+      hostname: foo.example.com
